@@ -177,8 +177,6 @@ Display Recommended Crop
 - **PAVAN**
   
 
----
 
-## 📄 License
 
-This project is developed for educational and academic purposes. It may be modified and extended for research and learning.
+
