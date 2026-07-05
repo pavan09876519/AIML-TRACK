@@ -208,11 +208,11 @@ Display Recommended Crop
 
 ## 👨‍💻 Development Team
 
-- **Harsha**
-- **Swetha**
-- **Sneha**
-- **Pranavi**
-- **Jagan**
+- **PAVAN**
+- **KAVERI**
+- **NANDINI**
+- **YASASRI**
+
 
 ---
 
