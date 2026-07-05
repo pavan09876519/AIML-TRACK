@@ -1,4 +1,4 @@
-# 🌿 OptiCrop – Intelligent Crop Recommendation System
+# 🌿 OptiCrop – Smart agricultural production optimization engine 
 
 ## 📖 Overview
 
