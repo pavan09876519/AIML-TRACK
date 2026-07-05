@@ -128,40 +128,6 @@ The project utilizes a crop recommendation dataset containing agricultural obser
 
 ---
 
-## ▶ Installation
-
-Clone the repository
-
-```bash
-git clone <repository-url>
-```
-
-Move into the project folder
-
-```bash
-cd OptiCrop
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Start the Flask server
-
-```bash
-python app.py
-```
-
-Open your browser
-
-```
-http://127.0.0.1:5000
-```
-
----
-
 ## 📈 System Workflow
 
 ```
