@@ -66,24 +66,22 @@ OptiCrop/
 ├── data/
 │   └── Crop_recommendation.csv
 │
-├── models/
-│   ├── crop_model.pkl
-│   ├── kmeans_model.pkl
-│   ├── label_encoder.pkl
-│   └── model_name.txt
-│
-├── notebooks/
-│   └── OptiCrop_Analysis.ipynb
+├___images/
+│  
+│___Testing
+│    
+│  
+|
 │
 ├── templates/
 │   ├── index.html
-│   └── result.html
+│   
 │
 └── static/
-    └── images/
-        ├── crop_distribution.png
-        ├── correlation_heatmap.png
-        └── temperature_rainfall.png
+    └── css
+        ├── style.css
+        
+        
 ```
 
 ---
